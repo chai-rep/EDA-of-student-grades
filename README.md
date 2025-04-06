@@ -1,1 +1,1 @@
-This 
+This was my project for one of my modules in Msc Applied data science. I have used plotnince to analyse the factors impacting grades using grades of students in two schools. The project was done in Jupyter notebook.
